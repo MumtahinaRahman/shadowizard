@@ -1,4 +1,4 @@
-function shadowizard(options) {
+function shadowAdder(options) {
     let images = document.querySelectorAll('.shadowizard');
 
     if (options.shadow_type === 'hard') {
@@ -15,4 +15,4 @@ function shadowizard(options) {
     })
 }
 
-module.exports.shadowizard = shadowizard;
+module.exports = shadowAdder;

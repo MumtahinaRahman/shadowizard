@@ -1,0 +1,13 @@
+
+{
+  "name": "mumtahina-shadow",
+  "version": "1.0.0",
+  "description": "add cool shadow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
