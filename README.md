@@ -1,14 +1,14 @@
-# shadowizard
+# mumtahina-shadow
 
 ## installation
-npm i shadowizard --save
+npm i mumtahina-shadow --save
 
 
 ## how to use
 ```
-import { shadowizard } from 'shadowizard';
+import { mumtahina-shadow } from 'mumtahina-shadow';
 
-shadowizard({
+mumtahina-shadow({
   shadow_type: 'soft';
   padding: true;
 });

@@ -1,5 +1,5 @@
 function shadowAdder(options) {
-    let images = document.querySelectorAll('.shadowizard');
+    let images = document.querySelectorAll('.mumtahina-shadow');
 
     if (options.shadow_type === 'hard') {
         options.shadow_type = '0px';
