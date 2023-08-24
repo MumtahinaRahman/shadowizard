@@ -6,9 +6,9 @@ npm i mumtahina-shadow --save
 
 ## how to use
 ```
-import { mumtahina-shadow } from 'mumtahina-shadow';
+import { shadowAdder } from 'mumtahina-shadow';
 
-mumtahina-shadow({
+shadowAdder({
   shadow_type: 'soft';
   padding: true;
 });
